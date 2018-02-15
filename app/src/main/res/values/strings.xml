@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="lets_play">Lets Play</string>
+    <string name="settings_bluetooth">Settings Bluetooth</string>
+    <string name="accessible">Accessible</string>
+    <string name="take_off">Take Off</string>
+    <string name="search">Search</string>
+</resources>

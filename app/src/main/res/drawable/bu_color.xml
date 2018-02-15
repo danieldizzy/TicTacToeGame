@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#ffffff" />
+            <corners android:radius="9dp"  />
+            <stroke android:color="#000000" android:width= "2dp"/>
+
+
+        </shape>
+    </item>
+git
+    <item>
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/colorAccent" />
+            <corners android:radius="9dp"  />
+            <stroke android:color="#ffff00" android:width= "2dp"/>
+
+
+        </shape>
+    </item>
+
+
+
+</selector>
